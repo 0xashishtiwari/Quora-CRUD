@@ -33,7 +33,7 @@ Start the server:
 npm start
 ```
 
-The app will run on [http://localhost:3000](http://localhost:3000) by default.
+The app will run on [http://localhost:3000](http://localhost:8080) by default.
 
 ## 📂 Project Structure
 
